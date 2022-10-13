@@ -1,6 +1,7 @@
+using NUnit.Framework;
 namespace tdd_character_stateMachine_practice;
 
-public class Tests{
+public class StateServiceTests{
 	[SetUp]
 	public void Setup(){ }
 
